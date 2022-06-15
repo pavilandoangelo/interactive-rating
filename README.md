@@ -31,7 +31,9 @@ Users should be able to:
 ### Screenshot
 
 ![Mobile Design](./assets/images/mobile.png)
+![Mobile Design](./assets/images/mobile-submitted.png)
 ![Desktop Design](./assets/images/desktop.png)
+![Desktop Design](./assets/images/desktop-submitted.png)
 
 ### Links
 
