@@ -7,7 +7,7 @@ export default function Rating(props) {
   return (
     <div className="flex flex-col w-full sm:max-w-md md:max-w-md px-6 py-8 md:py-12 md:px-8 items-start justify-center bg-darkBlue rounded-3xl">
       <div className="flex mb-6 md:mb-8 p-4 rounded-full bg-mediumGrey">
-        <Image src={star} />
+        <Image alt="Star" src={star} />
       </div>
       <span className="text-white text-2xl tracking-wide font-normal md:text-3xl ">How did we do?</span>
       <span className="text-lightGrey font-normal mt-3 text-sm tracking-wide md:text-base">
