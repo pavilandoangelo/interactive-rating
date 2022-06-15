@@ -14,7 +14,6 @@ export default function Home() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log("selected >>> ", selected);
     if (!selected) return;
 
     return setValues((prev) => ({...prev, isValid: true}))
